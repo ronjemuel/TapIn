@@ -1,0 +1,35 @@
+# Generated Java/NetBeans output
+/build/
+/dist/
+*.class
+
+# Local database configuration, private IDE state, and data exports
+config/database.properties
+config/test.properties
+config/demo-test.properties
+nbproject/private/
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+.env
+.env.*
+*.env
+!.env.example
+*.key
+*.pem
+*.keystore
+*.jks
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Vendor test configuration and TLS material
+/third_party/mysql-connector-j-26.7.0/src/test/config/
+*.p12
+*.pfx

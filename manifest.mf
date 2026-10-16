@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: tapin.App
+Class-Path: lib/mysql-connector-j-26.7.0.jar
+

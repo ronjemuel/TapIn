@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="TapIn" default="default" basedir=".">
+ <description>TapIn Java 17 Swing desktop attendance system.</description>
+ <import file="nbproject/build-impl.xml"/>
+</project>

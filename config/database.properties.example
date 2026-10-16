@@ -1,0 +1,4 @@
+# Copy to database.properties locally and supply your own database account.
+db.url=jdbc:mysql://localhost:3306/tapin_rebuild
+db.user=
+db.password=
